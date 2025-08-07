@@ -11,10 +11,13 @@
 **Links and Resources :** [NANDA Main Website](https://nanda.media.mit.edu/), [Events Calendar](https://lu.ma/nanda), [Linkedin](https://www.linkedin.com/company/projectnanda/), [Youtube](https://www.youtube.com/@ProjectNANDA), [Discord](https://discord.gg/BxnPBEqd88)
 
 ## Foundational Repositories
-
 - **[NANDA Core Documentation](https://github.com/projnanda/projnanda)** : Learn more about the project here. This is a great starting point. 
 - **[Research Papers](https://projnanda.github.io/projnanda/#/?id=research-amp-publications)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA. If you want to participate, find the onboarding steps on the README. 
 
 ### Code
 - **[NANDA Adapter](https://github.com/projnanda/adapter)** : Bring your local agent. Make it persistent, discoverable and interoperable on the global internet with NANDA.
 - **[NANDA Index](https://github.com/projnanda/nanda-index)**: A registry service for managing and allocating NANDA agents. This service handles agent registration, allocation, and client-agent mapping.
+
+### FAQs
+- **[Project NANDA FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - Comprehensive Q&A about the project
+- **[NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - NANDA Index - contextualizing with Linux Foundation Agent2Agent Project
