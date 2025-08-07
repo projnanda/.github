@@ -14,7 +14,8 @@ Created at MIT, NANDA provides the index, protocols, and tools needed to enable 
 
 ## Foundational Repositories
 - **[NANDA Core Documentation](https://github.com/projnanda/projnanda)** : Learn more about the project here. This is a great starting point. 
-- **[Research Papers](https://projnanda.github.io/projnanda/#/?id=research-amp-publications)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA. If you want to participate, find the onboarding steps on the README. 
+- **[Research Papers](https://projnanda.github.io/projnanda/#/?id=research-amp-publications)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA. If you want to participate, find the onboarding steps on the README.
+- **[Deep Wiki](https://deepwiki.com/projnanda)**: Generated documentation on Github repos for you to edify yourself on the details of the particular work. 
 
 ### Code
 - **[NANDA Adapter](https://github.com/projnanda/adapter)** : Bring your local agent. Make it persistent, discoverable and interoperable on the global internet with NANDA.
